@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hel-kun&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hel-kun&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Links
 - [**helkun.dev**](https://helkun.dev) : My Pparsonal website.
