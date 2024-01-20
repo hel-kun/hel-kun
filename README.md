@@ -5,7 +5,7 @@
 ## Links
 - [**helkun.dev**](https://helkun.dev) : My Parsonal website.
 - [**Twitter(Main)**](https://x.com/hel_kun) : My main Twitter account.
-- [**Twitter(Sub)**](https://x.com/madhell_uec) : My sub Twitter account.
+- [**Twitter(Sub)**](https://x.com/hel_kun_sub) : My sub Twitter account.
 
 <!--
 **hel-kun/hel-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
