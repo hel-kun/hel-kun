@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hel-kun&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Links
-- [**helkun.dev**](https://helkun.dev) : My Pparsonal website.
+- [**helkun.dev**](https://helkun.dev) : My Parsonal website.
 - [**Twitter(Main)**](https://x.com/hel_kun) : My main Twitter account.
 - [**Twitter(Sub)**](https://x.com/madhell_uec) : My sub Twitter account.
 
