@@ -2,6 +2,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hel-kun&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,html,css,js,ts,astro,vue,java,git,github,cloudflare,linux,raspberrypi)](https://skillicons.dev)
+
 ## Links
 - [**helkun.dev**](https://helkun.dev) : My Parsonal website.
 - [**Twitter(Main)**](https://x.com/hel_kun) : My main Twitter account.
